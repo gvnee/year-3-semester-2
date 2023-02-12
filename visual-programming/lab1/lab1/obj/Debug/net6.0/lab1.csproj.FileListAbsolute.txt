@@ -1,0 +1,15 @@
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/bin/Debug/net6.0/lab1.deps.json
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/bin/Debug/net6.0/lab1.dll
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/bin/Debug/net6.0/ref/lab1.dll
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/bin/Debug/net6.0/lab1.pdb
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.csproj.AssemblyReference.cache
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.AssemblyInfoInputs.cache
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.AssemblyInfo.cs
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.csproj.CoreCompileInputs.cache
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.dll
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/ref/lab1.dll
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.pdb
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/bin/Debug/net6.0/lab1
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/bin/Debug/net6.0/lab1.runtimeconfig.json
+/home/gvne/year-3-semester-2/visual-programming/lab1/lab1/obj/Debug/net6.0/lab1.genruntimeconfig.cache
