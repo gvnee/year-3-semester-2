@@ -5,27 +5,30 @@ public class FlashCard {
   Deck deck = new Deck();
 
   void mainLoop(){
+    FileHandler.createFile();
+    FileHandler.loadDeck(deck);
     for(;;){
-      printOptions();
-      takeOption();
+      printMenu();
+      takeChoice();
     }
   }
 
-  void printOptions(){
+  void printMenu(){
     System.out.print(Color.WHITE + Color.BOLD);
     System.out.println("1. add card");
     System.out.println("2. study");
     System.out.println("3. see cards");
-    System.out.println("4. exit");
+    System.out.println("4. delete card");
+    System.out.println("5. exit");
   }
 
-  void takeOption(){
+  void takeChoice(){
     try {
       System.out.print(Color.CYAN + "> " + Color.YELLOW);
       int input = Integer.parseInt(Main.sca.nextLine());
       switch (input) {
         case 1:
-          deck.addCard();
+          deck.addCardChoice();
           break;
         case 2:
           deck.study();
@@ -34,6 +37,9 @@ public class FlashCard {
           deck.printCards();
           break;
         case 4:
+          // deck.deleteCardChoice();
+          break;
+        case 5:
           this.terminate();
         default:
           break;

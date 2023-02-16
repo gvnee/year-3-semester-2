@@ -7,10 +7,7 @@ public class Main{
   public static final Scanner sca = new Scanner(System.in);
 
   public static void main(String[] args){
-    FileHandler fileHandler = new FileHandler();
-    fileHandler.createFile();
-    fileHandler.write();
-    
+
     FlashCard flash = new FlashCard();
     flash.mainLoop();
 
