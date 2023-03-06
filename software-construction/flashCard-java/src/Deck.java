@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Deck {
   int cardsCount = 0;
   private ArrayList<Card> cards = new ArrayList<Card>();
-  
+    
   void addCard(String front, String back){
     cards.add(new Card(front, back));
   }
